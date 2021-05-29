@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/osboxes/Documentos/tarefa01/signalfork.c
+stdio.h
+-
+signal.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/resource.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/app.dir/signalfork.o  -o app 
